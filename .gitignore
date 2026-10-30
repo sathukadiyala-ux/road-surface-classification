@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/raw/
+data/split/
+models/*.pt
+outputs/*.csv
+outputs/*.mp4
+mixed/
+noisy/
+demo/
